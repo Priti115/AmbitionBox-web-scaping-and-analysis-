@@ -1,69 +1,150 @@
-# AmbitionBox-web-scaping-and-analysis-
-Scraped 300+ pages of AmbitionBox using Python (Requests, BeautifulSoup) and built a structured dataset of companies with ratings, headquarters, founding year, and employee size. Performed advanced SQL analysis to derive insights on company growth, global distribution, and workforce trends.
+# 📊 Company Analysis SQL Project
 
+## 🚀 Overview
 
+This project analyzes company data using advanced SQL techniques to uncover insights about performance, scalability, credibility, and market competition.
 
-💼 Section 1: Business Decision Questions (Core)
-Q1.
+The dataset includes:
 
-Which companies demonstrate the best combination of high employee strength and high ratings, indicating strong internal culture and scalability?
+* Company Name
+* Ratings & Review Count
+* Employee Count
+* Country & Headquarters
+* Year of Establishment
 
-Q2.
+---
 
-Identify companies that are highly rated but have very low rating counts, and evaluate whether these ratings may be unreliable or biased.
+## 🎯 Objectives
 
-Q3.
+* Identify top-performing companies
+* Adjust ratings for review bias
+* Analyze company growth stages
+* Compare country-level performance
+* Detect hidden and emerging leaders
 
-Which countries have the highest average company ratings, and how does company size distribution vary across these countries?
+---
 
-Q4.
+## 🧠 Key Concepts Used
 
-Find companies that are in a growth phase (moderate employee count) but already have high ratings, making them strong candidates for investment.
+* CTEs (Common Table Expressions)
+* Window Functions (RANK, DENSE_RANK, ROW_NUMBER, NTILE)
+* Data Normalization
+* Bayesian Weighted Rating
+* Median Calculation
+* Composite Scoring Models
 
-Q5.
+---
 
-Which cities (from Headquarters) act as top business hubs based on the concentration of highly rated companies?
+## 📊 Key Analyses
 
-📊 Section 2: Market & Strategy Insights
-Q6.
+### 1. High Rating + High Employee Strength
 
-Analyze how company age (Company_year) impacts rating.
-Do older companies perform better than newer ones?
+Identifies scalable companies with strong internal culture.
 
-Q7.
+### 2. Low Review Bias Detection
 
-Segment companies into size categories and determine which segment has the highest employee satisfaction (rating).
+Highlights companies with inflated ratings due to low review counts.
 
-Q8.
+### 3. Country-Level Performance
 
-Identify countries where companies have large employee bases but lower ratings, indicating potential HR or management issues.
+Analyzes average ratings and company size distribution.
 
-Q9.
+### 4. Credibility-Based Ranking
 
-Which companies are outperforming their peers within the same country in terms of rating?
+Uses Bayesian formula to rank companies fairly.
 
-Q10.
+### 5. Hidden vs Popular Leaders
 
-Find the top 3 companies in each country that can be considered market leaders based on ratings.
+Classifies companies into:
 
-📈 Section 3: Risk & Opportunity Analysis
-Q11.
+* Hidden Leaders
+* Popular Leaders
+* Average Performers
 
-Detect companies where rapid growth (high employee count) is not matched by employee satisfaction (low rating).
+### 6. Age-Based Segmentation
 
-Q12.
+Segments companies into:
 
-Identify regions with emerging companies (recently founded but high-rated), indicating future market leaders.
+* Startup
+* Growth
+* Established
+* Legacy
 
-Q13.
+### 7. Overperformers
 
-Which companies have consistently strong reputation signals (high rating + high rating count)?
+Finds companies exceeding their segment average.
 
-🧠 Section 4: Data Quality & Reliability
-Q14.
+### 8. Rating Bias Analysis
 
-How can inconsistent or missing values in Headquarters and Company_year affect business insights, and how can they be handled?
+Compares top vs bottom review deciles.
 
-Q15.
+### 9. Competitive Intensity Score
 
-Evaluate the reliability of ratings by comparing rating vs rating count distribution across companies.
+Ranks countries using:
+
+* Company count
+* Ratings
+* Employees
+* Age
+
+### 10. Underperforming Mature Companies
+
+Identifies older companies with weak ratings.
+
+### 11. Emerging Leaders
+
+Detects high-growth young companies.
+
+### 12. Combined Segmentation
+
+Analyzes performance across:
+
+* Young/Old
+* Small/Large
+
+### 13. Composite Ranking
+
+Ranks companies across multiple dimensions.
+
+### 14. HQ Concentration Analysis
+
+Measures geographic concentration using HHI Index.
+
+---
+
+## 📈 Key Insights
+
+* Ratings alone are misleading without review volume
+* Some top-rated companies are unreliable due to low data
+* Growth-stage companies often outperform legacy firms
+* Hidden leaders exist in every market
+* Competitive intensity varies significantly across countries
+
+---
+
+## ⚠️ Data Issues
+
+* Inconsistent country naming (cities vs countries)
+* Missing/null values in some fields
+
+---
+
+## 🛠️ Future Improvements
+
+* Data cleaning & normalization
+* Add industry/category column
+* Visualization using Power BI / Tableau
+* Machine learning for prediction
+
+---
+
+## 💡 Conclusion
+
+This project demonstrates how advanced SQL can be used to perform real-world data analysis, uncover hidden patterns, and support business decision-making.
+
+---
+
+## 👩‍💻 Author
+
+Priti
+B.Tech CSE | Aspiring Data Scientist / ML Engineer

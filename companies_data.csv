@@ -32,10 +32,10 @@ Tamilnad Mercantile Bank,2.5,"India, Tamil Nadu, India",1921,5000,304,India
 InSync Analytics,2.5,"Mumbai, Maharashtra, India",2006,1000,200,India
 Nerdy Turtlez,2.5,"Noida, Uttar Pradesh, India",2009,500,169,India
 Trinity Mobility,2.5,"Bangalore,Karnataka, India",2011,500,164,India
-Revolut,2.6,"London,England, UK",2015,5000,639,UK
+Revolut,2.6,"London,UK, UK",2015,5000,639,UK
 AML RightSource,2.6,"Cleveland, Ohio, United States",0,5000,592,USA
 Zycus Infotech,2.6,"Princeton, New Jersey, United States (USA)",2001,5000,537,USA
-Enphase Energy,2.6,"Fremont, California, US",2006,1000,402,US
+Enphase Energy,2.6,"Fremont, California, US",2006,1000,402,USA
 Greet Technologies,2.6,"Bangalore/Bengaluru, Karnataka, India",1991,200,400,India
 AVASOFT,2.6,"India, Tamil Nadu, India",2009,5000,331,India
 Arzooo.com,2.6,"Bangalore,Karnataka, India",2016,200,327,India
@@ -64,7 +64,7 @@ eBIZ.com,2.6,"Noida, Uttar Pradesh, India",2001,200,156,India
 IntouchCX,2.7,"Winnipeg, Manitoba, Canada",2001,5000,2500,Canada
 Apex Group,2.7,"Hamilton, United States Of America",2003,10000,1200,USA
 Netscribes,2.7,"New York, New York, United States (USA)",2000,5000,914,USA
-Qinecsa Solutions,2.7,"London, England, UK",2006,5000,812,UK
+Qinecsa Solutions,2.7,"London, UK, UK",2006,5000,812,UK
 Axtria,2.7,"Gurgaon/Gurugram, Haryana, India",2010,5000,775,India
 UnitedLex,2.7,"Gurgaon / Gurugram, Haryana, India",2006,5000,742,India
 Toothsi,2.7,"Mumbai,Maharashtra, India",2018,1000,560,India
@@ -80,12 +80,12 @@ Calsoft,2.7,"San Jose, California, United States (USA)",0,5000,426,USA
 Zealous Services,2.7,"India, Tamil Nadu, India",2007,1000,412,India
 Xdbs,2.7,"Redwood City, San Francisco, United States (USA)",2012,5000,382,USA
 LeadSquared,2.7,"Bangalore,Karnataka, India",2011,5000,380,India
-Stefanini,2.7,"JaguariÃºna, Michigan, US",2002,1000,348,US
+Stefanini,2.7,"JaguariÃºna, Michigan, US",2002,1000,348,USA
 Decimal Point Analytics,2.7,"Mumbai, India",2012,1000,326,India
 Blenheim Chalcot,2.7,"Mumbai Suburban, Maharashtra, India",1998,500,297,India
 INDIABULLS PHARMACEUTICALS,2.7,"Mumbai,Maharashtra, India",2016,5000,296,India
 Incture Technologies,2.7,"Banglore, India",2006,1000,291,India
-Dotsquares,2.7,"London, England",2002,5000,285,England
+Dotsquares,2.7,"London, UK",2002,5000,285,UK
 Mas Callnet,2.7,"Noida, Uttar Pradesh, India",1990,200,285,India
 GyanSys Inc,2.7,"Carmel, India ",2005,5000,246,India 
 Verzeo,2.7,"Bangalore,Karnataka, India",2018,1000,233,India
@@ -106,7 +106,7 @@ Creditas Solutions,2.7,"Gurgaon, Haryana, India",2015,500,156,India
 Fiserv,2.8,"Brookfield,Wisconsin, United States",1984,10000,2800,USA
 AGS Transact Technologies,2.8,"Mumbai, India",2002,5000,1300,India
 Onward Technologies Inc,2.8,"Mumbai, Maharashtra, India",1991,5000,1100,India
-"Commonwealth Bank of Australia, India",2.8,"Sydney, Australia",1911,10000,898,Australia
+"Commonwealth Bank of Australia, India",2.8,"Sydney, Australia",1911,10000,898,AUSAtralia
 LG Soft India,2.8,"Bangalore/Bengaluru, Karnataka, India",1996,5000,722,India
 NSB Bpo Solutions,2.8,"Bhopal, Madhya Pradesh, India",1993,5000,694,India
 NoBrokerHood,2.8,"Bangalore / Bengaluru, Karnataka, India",2018,5000,632,India
@@ -178,7 +178,7 @@ Zee Laboratories,2.9,"Delhi/NCR, Delhi, India",1993,500,291,India
 Black Box Limited,2.9,"Navi Mumbai, Maharashtra, India",1976,1000,282,India
 Utthunga Technologies,2.9,"Bangalore/Bengaluru, Karnataka, India",2007,1000,281,India
 Terralogic Software Solutions,2.9,"Bangalore / Bengaluru, Karnataka, India",2008,500,261,India
-British Airways,2.9,"Harmondsworth, Greater London, England",1919,500,259,England
+British Airways,2.9,"Harmondsworth, Greater London, UK",1919,500,259,UK
 Weddingz.in,2.9,"Mumbai, Maharashtra, India",2015,1000,256,India
 GeeksForGeeks,2.9,"Noida, Uttar Pradesh, India",2009,5000,241,India
 Q Way Technologies,2.9,"India, Tamil Nadu, India",2010,1000,239,India
@@ -337,7 +337,7 @@ Citco,3.1,"Cayman Islands, British Overseas Territory",2016,5000,1300,British Ov
 Aptara,3.1,"Falls Church, Virginia, United States (USA)",1988,5000,1300,USA
 Nielsen,3.1,"Vadodara, Gujarat, India",1923,10000,1200,India
 Ceasefire Industries,3.1,"New Delhi, Delhi, India",2002,5000,1000,India
-QX Global Group,3.1,"London, England, UK",2003,5000,1000,UK
+QX Global Group,3.1,"London, UK, UK",2003,5000,1000,UK
 Temenos,3.1,"Geneva, Switzerland, Switzerland",1993,5000,1000,Switzerland
 Vaco Binary Semantics,3.1,"Gurgaon/Gurugram, Haryana, India",2016,10000,993,India
 Quantiphi Analytics Solutions Private Limited,3.1,"Mumbai,Maharashtra, India",2013,5000,968,India
@@ -347,7 +347,7 @@ Skill Lync,3.1,"Palo Alto, California, United States (USA)",2015,5000,786,USA
 Allied Digital Services,3.1,"Mumbai, Maharashtra, India",1995,5000,777,India
 Orion Edutech,3.1,"Kolkata, India",2006,10000,751,India
 Writer Information Management Services,3.1,"Mumbai, India",1987,5000,733,India
-Koch Business Solutions,3.1,"Wichita, Kansas, US",1940,5000,718,US
+Koch Business Solutions,3.1,"Wichita, Kansas, US",1940,5000,718,USA
 Quess IT Staffing Solutions,3.1,"Bangalore / Bengaluru, Karnataka, India",1997,5000,675,India
 Nihilent,3.1,"Pune, Maharashtra, India",2000,5000,650,India
 NetConnectGlobal,3.1,"Bengaluru/Bangalore, Karnataka, India",1997,5000,623,India
@@ -401,7 +401,7 @@ VSynergize Outsourcing,3.1,"Boston, MA, USA",2001,500,244,USA
 Moveinsync Technology Solutions,3.1,"Bangalore,Karnataka, India",2009,200,242,India
 WorkIndia,3.1,"Mumbai,Maharashtra, India",2015,500,240,India
 Dish Infra Services,3.1,"Delhi, India",0,1000,235,India
-Concentrix Catalyst,3.1,"Newark, California",1983,5000,234,California
+Concentrix Catalyst,3.1,"Newark, California",1983,5000,234,USA
 IMSI,3.1,"Dehradun, Uttarakhand, India",1986,5000,233,India
 WeRize,3.1,"Bengaluru/Bangalore, Karnataka, India",2019,1000,233,India
 Grazitti Interactive,3.1,"Panchkula, Haryana, India",2008,5000,232,India
@@ -462,7 +462,7 @@ Tracks Components,3.1,"Gurgaon,Haryana, India",2002,5000,161,India
 3Pillar Global,3.1,"Noida, Uttar Pradesh, India",2006,500,161,India
 Niyo Solutions,3.1,"Bangalore,Karnataka, India",2015,500,161,India
 Melorra,3.1,"Bangalore,Karnataka, India",2015,500,160,India
-Solera,3.1,"Irving, Texas, US",2019,200,160,US
+Solera,3.1,"Irving, Texas, US",2019,200,160,USA
 Health Prime International,3.1,"National Harbor, United States",2004,5000,160,USA
 Verity Knowledge Solutions,3.1,"Hyderabad/Secunderabad, Telangana, India",2009,1000,158,India
 Acme Formulation,3.1,"Nalagarh, India",2004,1000,158,India
@@ -474,7 +474,7 @@ Opus Technologies,3.1,"Alpharetta, Georgia",1997,1000,156,Georgia
 BYJU'S,3.2,"Bangalore,Karnataka, India",2011,10000,16400,India
 Paytm,3.2,"Noida, India",2010,50000,9300,India
 Aakash Educational Services,3.2,"New Delhi, Delhi, India",1988,50000,4200,India
-Publicis Sapient,3.2,"Boston, Massachusetts",1990,20000,4000,Massachusetts
+Publicis Sapient,3.2,"Boston, Massachusetts",1990,20000,4000,MassachUSAetts
 IGT Solutions,3.2,"Gurgaon/Gurugram, Haryana, India",1998,10000,3500,India
 Cadila Pharmaceuticals,3.2,"Ahmedabad, Gujrat, India",1951,10000,2400,India
 Trident Group,3.2,"Ludhiana, Punjab, India",1990,50000,1900,India
@@ -538,7 +538,7 @@ AQM Technologies,3.2,"Mumbai, Maharashtra, India",0,5000,441,India
 PULSUS HealthTech Group,3.2,"London, United States (USA)",1984,1000,438,USA
 Alankit,3.2,"Delhi/NCR, New Delhi, India",1991,5000,433,India
 NOON.COM,3.2,"Burj Khalifa, Dubai, UAE (UAE)",2016,5000,431,UAE
-FCm Travel Solutions,3.2,"Brisbane, Australia",1986,1000,418,Australia
+FCm Travel Solutions,3.2,"Brisbane, Australia",1986,1000,418,AUSAtralia
 Pole To Win,3.2,"Los Angeles , United States",1994,5000,417,USA
 Aka Logistics,3.2,"Kolkata, West Bengal, India",2008,5000,414,India
 CogentHubCX.AI,3.2,"Kolkata, West Bengal, India",2016,1000,414,India
@@ -553,7 +553,7 @@ Icertis,3.2,"Bellevue,Washington, United States",2009,5000,394,USA
 D.p. Jain & Co. Infrastructure Pvt .,3.2,"Nagpur, Maharashtra, India",1974,500,390,India
 JBS Enterprises,3.2,"Mumbai, Maharashtra, India",1987,200,389,India
 AgreeYa Solutions,3.2,"Folsom, California, United States (USA)",1999,1000,383,USA
-Mobileum,3.2,"Cupertino, California, US",2000,1000,377,US
+Mobileum,3.2,"Cupertino, California, US",2000,1000,377,USA
 Andromeda Sales ans Distribution PVT LTD,3.2,"Mumbai, Maharashtra, India",1991,5000,372,India
 Treebo Hotels,3.2,"Bangalore,Karnataka, India",2015,200,360,India
 RNFI Services,3.2,"Delhi/NCR, Delhi, India",2015,5000,360,India
@@ -561,7 +561,7 @@ Apmosys Technologies,3.2,"Mumbai, Maharashtra, India",2012,5000,359,India
 Harjai Computers,3.2,"Mumbai, Maharashtra, India",1995,500,356,India
 Yalamanchili Software Exports,3.2,"India, India",2001,200,350,India
 Ven Consulting,3.2,"Bengaluru, India",2010,1000,344,India
-International Game Technology,3.2,"London, England, UK",1990,1000,343,UK
+International Game Technology,3.2,"London, UK, UK",1990,1000,343,UK
 Sakthi Auto Components,3.2,"Coimbatore, Tamil Nadu, India",1983,1000,340,India
 Gufic Biosciences,3.2,"Mumbai, Maharashtra, India",1970,1000,340,India
 Dentsu Aegis Network,3.2,"Mumbai, Maharashtra, India",1989,5000,339,India
@@ -569,7 +569,7 @@ Kalyani Motors,3.2,"Bangalore/Bengaluru, Karnataka, India",2006,5000,334,India
 Zopper,3.2,"Noida, Uttar Pradesh, India",2011,1000,331,India
 Entab Infotech,3.2,"Delhi/NCR, New Delhi, India",2001,1000,331,India
 Sureti Insurance Marketing,3.2,"Coimbatore, Tamil Nadu, India",2018,200,327,India
-Aptean,3.2,"Atlanta, US",2012,5000,326,US
+Aptean,3.2,"Atlanta, US",2012,5000,326,USA
 Rajsriya Automotive Industries,3.2,"Hosur, Tamil Nadu, India",1977,1000,325,India
 Hindustan Wellness,3.2,"Gurgaon,Haryana, India",2014,1000,321,India
 ETA Engineering,3.2,"India, Tamil Nadu, India",1994,1000,320,India
@@ -643,7 +643,7 @@ Network Intelligence India,3.2,"Thane, Maharashtra, India",2001,500,206,India
 Sahajanand Laser Technology,3.2,"Gandhinagar, Gujarat, India",1989,1000,203,India
 Skypro Technologies,3.2,"Bangalore/Bengaluru, Karnataka, India",2011,200,203,India
 Sagitec Solutions,3.2,"Saint Paul, Minnesota, United States (USA)",2004,200,203,USA
-Nyx-medical Solutions,3.2,"New York, New York",1999,200,200,New York
+Nyx-medical Solutions,3.2,"New York, New York",1999,200,200,USA
 WinWire,3.2,"Santa Clara, California, India",2006,1000,199,India
 Eurofins Scientific,3.2,"Luxembourg, Luxembourg",1987,5000,199,Luxembourg
 Daffodil Software,3.2,"Gurgaon / Gurugram, Haryana, India",1999,5000,199,India
@@ -697,7 +697,7 @@ Trafigura,3.2,"Singapore, Singapore",1993,1000,161,Singapore
 Enlist Management Consultants,3.2,"India, India",2004,500,160,India
 Hartex Rubber,3.2,"Hyderabad/Secunderabad, Telangana, India",1961,500,160,India
 Steer Engineering,3.2,"Bangalore/Bengaluru, Karnataka, India",1993,500,158,India
-Cadeploy Engineering,3.2,"Danville, California",2012,500,158,California
+Cadeploy Engineering,3.2,"Danville, California",2012,500,158,USA
 TeamLease Edtech,3.2,"Mumbai,Maharashtra, India",2012,200,158,India
 Pearl Beverages,3.2,"Delhi,NCT, India",1996,200,157,India
 Garuda Power,3.2,"Asansol, India",2009,200,157,India
@@ -707,7 +707,7 @@ Srijan Technologies,3.2,"Delhi/NCR, Delhi, India",2002,500,156,India
 Inube Software Solutions,3.2,"Bangalore, India",2010,500,156,India
 Bankai Infotech,3.2,"New York, New York, United States",2001,500,156,USA
 FreshMenu,3.2,"Bangalore,Karnataka, India",2014,5000,156,India
-AECC Global,3.2,"Melbourne, Australia",0,500,155,Australia
+AECC Global,3.2,"Melbourne, Australia",0,500,155,AUSAtralia
 TCS,3.3,"Mumbai, Maharashtra, India",1968,100000,110000,India
 WNS,3.3,"Mumbai, Maharashtra, India",1996,50000,15100,India
 PwC,3.3,"Kolkata, West Bengal, India",1880,50000,12500,India
@@ -827,7 +827,7 @@ Elico Healthcare Services,3.3,"Hyderabad/Secunderabad, Telangana, India",1999,10
 Miles Education,3.3,"Bangalore / Bengaluru, Karnataka, India",0,200,311,India
 Pulse Pharmaceuticals,3.3,"Hyderabad/Secunderabad, Telangana, India",1997,5000,308,India
 Cameo Corporate Services,3.3,"India, Tamil Nadu, India",1985,5000,308,India
-NVH India Auto Parts,3.3,"Buk-gu, Ulsan, Republic of Korea",1984,500,302,Republic of Korea
+NVH India Auto Parts,3.3,"Buk-gu, Ulsan, South Korea",1984,500,302,South Korea
 T R Chadha & Co Llp,3.3,"Delhi/NCR, Delhi, India",1946,200,301,India
 Moder Solutions,3.3,"Bangalore / Bengaluru, Karnataka, India",2020,5000,300,India
 QDegrees,3.3,"Jaipur, Rajasthan, India",2013,1000,294,India
@@ -860,7 +860,7 @@ Bajaj Healthcare,3.3,"Thane, Maharashtra, India",1993,200,249,India
 Canam Consultants,3.3,"Chandigarh, India",1996,1000,249,India
 Media.net Software Services (India),3.3,"Dubai, Dubai, UAE (UAE)",2010,5000,249,UAE
 ITCONS e-Solutions,3.3,"Noida, Uttar Pradesh, India",2007,5000,248,India
-Agilysys Technologies India,3.3,"Alpharetta, Georgia, US",1963,1000,246,US
+Agilysys Technologies India,3.3,"Alpharetta, Georgia, US",1963,1000,246,USA
 Adfactors PR,3.3,"Mumbai, India",1997,5000,245,India
 Coolberg Beverages,3.3,"Mumbai, Maharashtra, India",2016,500,244,India
 The Institute Of Chartered Accountants,3.3,"New Delhi, India",1949,200,242,India
@@ -886,7 +886,7 @@ BeatO,3.3,"Delhi,NCT, India",2015,500,219,India
 Furlenco,3.3,"Bangalore,Karnataka, India",2012,500,218,India
 Meditab Software,3.3,"Ahmedabad, Gujarat, India",2005,5000,218,India
 Algoworks,3.3,"Noida, Uttar Pradesh, India",2006,1000,217,India
-ZeMoSo Technologies,3.3,"Farmers Branch, Texas, US",2012,500,217,US
+ZeMoSo Technologies,3.3,"Farmers Branch, Texas, US",2012,500,217,USA
 VISTRA INTERNATIONAL EXPANSION,3.3,"Indore, Madhya Pradesh, India",1992,1000,216,India
 Square Bpo Services,3.3,"SECUNDERABAD, Telangana, India",0,5000,213,India
 Analytix Business Solutions,3.3," Ashram Road, Ahmedabad, Gujarat, India",2005,1000,213,India
@@ -903,7 +903,7 @@ Yashi Consulting Services,3.3,"Jaipur, India",2005,200,207,India
 KisanKraft Machine Tools,3.3,"Bangalore/Bengaluru, Karnataka, India",2005,500,207,India
 Soothe Healthcare,3.3,"Noida,Uttar Pradesh, India",2012,500,207,India
 CBSI,3.3,"Bangalore/Bengaluru, Karnataka, India",1998,1000,206,India
-PEARCE SERVICES,3.3,"Paso Robles, California",1998,500,206,California
+PEARCE SERVICES,3.3,"Paso Robles, California",1998,500,206,USA
 Reserve Bank Information Technology,3.3,"Navi Mumbai, Maharashtra, India",2016,1000,206,India
 Kazo Fashion,3.3,"Delhi,NCT, India",2007,1000,204,India
 Paychex IT Solutions India,3.3,"Bengaluru/Bangalore, Karnataka, India",1971,5000,204,India
@@ -926,7 +926,7 @@ Vivimed Labs,3.3,"Hyderabad/Secunderabad, Telangana, India",1991,1000,191,India
 Laxmi Remote India,3.3,"Noida, India",1995,500,191,India
 Epitome Components,3.3,"Ahmednagar, Maharashtra, India",1994,200,190,India
 Kumaran Systems,3.3,"India, Tamil Nadu, India",1990,1000,189,India
-Iron Systems,3.3,"Fremont, California, US",2002,500,189,US
+Iron Systems,3.3,"Fremont, California, US",2002,500,189,USA
 Monocept,3.3,"Hyderabad, India",2012,500,189,India
 Royal Cyber,3.3,"Naperville, Illinois, United States Of America",2002,500,189,USA
 Meritto,3.3,"Gurgaon,Haryana, India",2017,500,188,India
@@ -946,7 +946,7 @@ Vestian Global Workplace Services,3.3,"Bangalore / Bengaluru, Karnataka, India",
 GoMechanic,3.3,"Gurgaon,Haryana, India",2016,1000,180,India
 Jarvis Technology and Strategy Consulting,3.3,"Mumbai, India",2016,5000,180,India
 Epimoney,3.3,"Mumbai, Maharashtra, India",1995,500,179,India
-Volante Technologies,3.3,New York,0,500,179,New York
+Volante Technologies,3.3,New York,0,500,179,USA
 Jayem Automotives,3.3,"India, Tamil Nadu, India",1991,1000,178,India
 SVN SYSTECH INDIA,3.3,"Mumbai, Maharashtra, India",1999,5000,178,India
 Sri Ranganathar Industries,3.3,"Coimbatore, India",1982,1000,176,India
@@ -980,7 +980,7 @@ Integrace Health,3.3,"Mumbai,Maharashtra, India",2018,1000,157,India
 SoftTech Engineers Limited,3.3,"Pune, Maharashtra, India",1996,1000,156,India
 HCLTech,3.4,"Noida, Uttar Pradesh",1991,100000,45700,India 
 Tech Mahindra,3.4,"Pune, Maharashtra, India",1986,100000,43100,India
-Ernst & Young,3.4,"London, England",2002,50000,14400,England
+Ernst & Young,3.4,"London, UK",2002,50000,14400,UK
 IndusInd Bank,3.4,"Gurgaon/Gurugram, Haryana, India",1994,50000,14200,India
 Sutherland Global Services,3.4,Unknown,1986,50000,9000,Unknown
 Hexaware Technologies,3.4,"Navi Mumbai, Maharashtra, India",1990,50000,7600,India
@@ -1016,7 +1016,7 @@ Nykaa,3.4,"Mumbai,Maharashtra, India",2012,5000,1400,India
 Aforeserve,3.4,"Noida, Uttar Pradesh, India",2000,5000,1400,India
 Sunknowledge Services,3.4,"New York, New York, United States (USA)",2006,5000,1300,USA
 Grant Thornton,3.4,"Chicago, Illinois, United States (USA)",1924,10000,1300,USA
-Brillio,3.4,"Dallas, US state of Texas",2014,5000,1300,US state of Texas
+Brillio,3.4,"Dallas, US state of Texas",2014,5000,1300,USA
 VIBGYOR Group of Schools,3.4,"Mumbai, India",2004,50000,1300,India
 Spicejet,3.4,"Gurgaon/Gurugram, Haryana, India",2004,5000,1300,India
 Globant,3.4,"Pune, Maharashtra, India",2003,5000,1300,India
@@ -1089,7 +1089,7 @@ LuLu Group International,3.4,"Abu Dhabi, Abu Dhabi, UAE (UAE)",1966,50000,466,UA
 Yethi Consulting,3.4,"Bangalore/Bengaluru, Karnataka, India",2013,5000,461,India
 Seoyon E-hwa Automotive,3.4,"Seoul, South Korea",1972,200,461,South Korea
 Subex,3.4,"Bangalore/Bengaluru, Karnataka, India",1992,1000,460,India
-Speridian Technologies,3.4,"Albuquerque, New Mexico, US",2002,5000,454,US
+Speridian Technologies,3.4,"Albuquerque, New Mexico, US",2002,5000,454,USA
 Caresoft Global,3.4,"Detroit, Michigan, United States Of America",2006,5000,452,USA
 Puravankara,3.4,"Bangalore/Bengaluru,Karnataka, India",1975,1000,452,India
 Infovision,3.4,"Pune, Maharashtra, India",1995,5000,447,India
@@ -1138,7 +1138,7 @@ Technicolor,3.4,"Paris, France",1893,10000,339,France
 CityMall,3.4,"Gurgaon,Haryana, India",2019,5000,338,India
 Nutricia,3.4,"Utrecht, Netherlands",1896,5000,337,Netherlands
 BLS International Services,3.4,"New Delhi, Delhi, India",2005,5000,337,India
-AVL,3.4,"Graz, Austria",1948,1000,337,Austria
+AVL,3.4,"Graz, Austria",1948,1000,337,AUSAtria
 Praxis Services,3.4,"Gurugram, India",2011,5000,334,India
 Kpmg Resource Centre,3.4,"Mumbai, India",0,1000,332,India
 Biz 2 Credit Info Services,3.4,"Noida, Uttar Pradesh, India",2007,500,332,India
@@ -1226,7 +1226,7 @@ OneCard,3.4,"Pune,Maharashtra, India",2019,200,237,India
 FEV,3.4,"Aachen, Germany",1978,500,237,Germany
 11:11 Systems,3.4,"Pune, Maharashtra, India",2020,500,236,India
 Casio India Company,3.4,"Delhi/NCR, New Delhi, India",1996,1000,234,India
-Kroll,3.4,"New York, New York, US",1932,5000,233,US
+Kroll,3.4,"New York, New York, US",1932,5000,233,USA
 Rasna,3.4,"Ahmedabad, Gujarat, India",1976,500,232,India
 TravelTriangle,3.4,"Noida,Uttar Pradesh, India",2010,200,232,India
 Harita Techserv,3.4,"India, Tamil Nadu, India",1996,1000,231,India
@@ -1280,7 +1280,7 @@ Nippon Data Systems,3.4,"Noida, Uttar Pradesh, India",1994,5000,193,India
 Amelia,3.4,"New York, New York, United States",0,5000,192,USA
 Hoonartek,3.4,"Pune, India",2010,1000,192,India
 ICT Service Management Solutions,3.4,"Bangalore/Bengaluru, Karnataka, India",2009,200,191,India
-SOS Children's Village,3.4,"Imst, Austria",1949,5000,191,Austria
+SOS Children's Village,3.4,"Imst, Austria",1949,5000,191,AUSAtria
 Programming.Com,3.4,"Mohali, Punjab, India",2002,1000,191,India
 Roha Housing Finance,3.4,"Noida, Uttar Pradesh, India",2017,200,190,India
 Ducat,3.4,"Noida, Uttar Pradesh, India",1999,200,190,India
@@ -1437,7 +1437,7 @@ ffreedom app,3.5,"Bengaluru/Bangalore, Karnataka, India",2020,1000,720,India
 Nvidia,3.5,"Santa Clara, California, United States (USA)",1993,5000,719,USA
 Biba Apparels,3.5,"Gurgaon, India",1986,5000,713,India
 Home First Finance Company India,3.5,"Mumbai,Maharashtra, India",2010,5000,709,India
-Trianz,3.5,"Santa Clara, California, US",2001,5000,705,US
+Trianz,3.5,"Santa Clara, California, US",2001,5000,705,USA
 Goodyear,3.5,"Akron, OH, United States",1898,1000,703,USA
 Cotiviti,3.5,"Hyderabad / Secunderabad, Telangana, India",1979,5000,695,India
 KreditBee,3.5,"Bengaluru, Karnataka, India",2016,200,693,India
@@ -1547,7 +1547,7 @@ Pharmarack Technologies,3.5,"Pune,Maharashtra, India",2015,1000,370,India
 Apcer Life Sciences,3.5,"Princeton, New Jersey, United States (USA)",2007,1000,362,USA
 Endava,3.5,"Somerset, New Jersey, United States Of America",2003,5000,362,USA
 Capri Global Housing Finance,3.5,"Mumbai, India",1997,5000,360,India
-Hitachi Vantara,3.5,"Santa Clara, California",0,5000,359,California
+Hitachi Vantara,3.5,"Santa Clara, California",0,5000,359,USA
 Adani Electricity,3.5,"Mumbai, Maharashtra, India",1929,5000,358,India
 Brick&Bolt,3.5,"Bangalore,Karnataka, India",2017,500,358,India
 Holcim,3.5,"Grafenauweg, Switzerland, Switzerland",1912,5000,357,Switzerland
@@ -1615,7 +1615,7 @@ Techolution,3.5,"Hyderabad / Secunderabad, Telangana, India",2015,500,271,India
 Don Bosco School,3.5,"New Delhi, India",1980,5000,270,India
 Kanwar Enterprises,3.5,"Noida, India",1997,1000,269,India
 Expertise Contracting Company,3.5,"Al Jubail, Saudi Arabia",0,5000,267,Saudi Arabia
-Strada,3.5,"Hemel Hempstead, Hertfordshire, England",1969,5000,266,England
+Strada,3.5,"Hemel Hempstead, Hertfordshire, UK",1969,5000,266,UK
 Protean eGov Technologies,3.5,"Mumbai, Maharashtra, India",1995,5000,264,India
 Supermax Personal Care,3.5,"Dubai, Dubai, UAE (UAE)",1949,5000,264,UAE
 Sentiss Pharma,3.5,"Gurgaon/Gurugram, Haryana, India",1990,1000,263,India
@@ -1714,7 +1714,7 @@ Empower Pragati,3.5,"Delhi/NCR, New Delhi, India",2010,500,191,India
 Clean Science And Technology,3.5,"Pune, India",2006,1000,191,India
 Primus Techsystems,3.5,"Pune, India",2010,1000,191,India
 Enrich Hair And Skin Solutions,3.5,"Mumbai, Maharashtra, India",2004,1000,190,India
-Timezone Entertainment,3.5,"Perth, Australia",1978,500,188,Australia
+Timezone Entertainment,3.5,"Perth, Australia",1978,500,188,AUSAtralia
 Government of Bihar,3.5,"Patna, India",1947,5000,187,India
 LS Automotive India,3.5,"India,Tamil Nadu, India",2006,5000,187,India
 Capricorn Logistics,3.5,"Mumbai, Maharashtra, India",2001,5000,187,India
@@ -1735,7 +1735,7 @@ Cadmaxx Solutions,3.5,"Bangalore/Bengaluru, Karnataka, India",2004,1000,179,Indi
 Eurofins Advinus,3.5,"Bengaluru, India",2005,1000,179,India
 NeST Digital,3.5,"Kochi,Kerala, India",1998,5000,179,India
 Bhavna Corp.,3.5,"Noida, Uttar Pradesh, India",2013,500,178,India
-Globe Capital Market,3.5,"Eastcote,England, UK",1984,5000,177,UK
+Globe Capital Market,3.5,"Eastcote,UK, UK",1984,5000,177,UK
 S.M. Consultants,3.5,"Bhubaneswar, Odisha, India",1999,200,176,India
 Infinity Data Technologies,3.5,"Rockville, Maryland, United States (USA)",2003,500,176,USA
 GUVI,3.5,"India, Tamil Nadu, India",2014,1000,176,India
@@ -1778,7 +1778,7 @@ Export Trading group,3.5,"Dubai, UAE",1967,5000,162,UAE
 Flatworld Mortgage Processing,3.5,"Bengaluru, India",2006,200,162,India
 Amagi Media Labs,3.5,"Bangalore/Bengaluru, Karnataka, India",2008,500,162,India
 TAL Manufacturing Solutions,3.5,"Pune, Maharashtra, India",2000,1000,161,India
-GP Strategies,3.5,"Columbia, Maryland, US",1966,500,161,US
+GP Strategies,3.5,"Columbia, Maryland, US",1966,500,161,USA
 Vitromed Healthcare,3.5,"Jaipur, Rajasthan, India",1973,500,161,India
 Innovassynth Technologies,3.5,"Pune, Maharashtra, India",2002,1000,160,India
 Fukoku,3.5,"Ageo, Japan",1953,200,160,Japan
@@ -1817,7 +1817,7 @@ DXC Technology,3.6,"Minato,Tokyo, Japan",2017,50000,11900,Japan
 Wells Fargo,3.6,"San Francisco, California, United States (USA)",1852,50000,8600,USA
 EXL Service,3.6,"New York City,New York, United States",1999,50000,8600,USA
 Firstsource Solutions,3.6,"Mumbai, Maharashtra, India",2001,50000,5700,India
-Standard Chartered,3.6,"London, England, UK (UK)",1853,50000,5700,UK
+Standard Chartered,3.6,"London, UK, UK (UK)",1853,50000,5700,UK
 Citicorp,3.6,"Mumbai, Maharashtra, India",1997,50000,5500,India
 Cyient,3.6,"Hyderabad/Secunderabad, Telangana, India",1991,50000,5300,India
 SBI Cards & Payment Services,3.6,"Gurgaon/Gurugram, Haryana, India",1998,5000,5300,India
@@ -1897,7 +1897,7 @@ eClinicalWorks,3.6,"Westborough, Massachusetts, United States (USA)",1999,5000,1
 CarDekho Group,3.6,"Jaipur,Rajasthan, India",2008,5000,992,India
 Cult.fit,3.6,"Bangalore,Karnataka, India",2016,5000,991,India
 Mastek,3.6,"Mumbai, Maharashtra, India",1982,5000,989,India
-Entain,3.6,"London, England, UK",0,5000,970,UK
+Entain,3.6,"London, UK, UK",0,5000,970,UK
 Financial Software & Systems,3.6,"India, India",1991,5000,961,India
 Nasser S. Al Hajri Corporation,3.6,"Al Jubail, Saudi Arabia",1978,5000,958,Saudi Arabia
 Shriram General Insurance,3.6,"Jaipur, Rajasthan, India",2008,5000,954,India
@@ -1916,7 +1916,7 @@ Syneos Health,3.6,"Hyderabad / Secunderabad, Telangana, India",1984,5000,806,Ind
 Principal Global Services,3.6,"Des Moines, United States (USA)",1987,5000,804,USA
 Prama Hikvision India,3.6,"Hangzhou, China",2009,500,803,China
 Investors Clinic,3.6,"Noida, Uttar Pradesh, India",2009,5000,802,India
-Qualitest,3.6,"London, England, UK",1997,5000,801,UK
+Qualitest,3.6,"London, UK, UK",1997,5000,801,UK
 Novac Technology Solutions,3.6,"India, Tamil Nadu, India",2006,5000,791,India
 Reliance BP Mobility,3.6,"Navi Mumbai, Maharashtra, India",2015,5000,788,India
 Careernet,3.6,"Bangalore, India",0,5000,782,India
@@ -1968,7 +1968,7 @@ ShareChat,3.6,"Bangalore,Karnataka, India",2014,5000,603,India
 Ugam Solution,3.6,"Mumbai, Maharashtra, India",2000,5000,596,India
 Vyapar,3.6,"Bengaluru/Bangalore, Karnataka, India",2017,5000,592,India
 Inspira Enterprise India Limited,3.6,"Mumbai, Maharashtra, India",2008,5000,590,India
-IDP Education Limited,3.6,"Melbourne, Victoria, Australia",1995,5000,590,Australia
+IDP Education Limited,3.6,"Melbourne, Victoria, Australia",1995,5000,590,AUSAtralia
 Excitel Broadband,3.6,"Delhi,NCT, India",2015,5000,590,India
 Ascent HR Technologies Private Limited,3.6,"Bengaluru, India",2002,1000,584,India
 Dishman Carbogen Amcis,3.6,"Bubendorf, Switzerland",2007,5000,568,Switzerland
@@ -2006,21 +2006,20 @@ Equiniti,3.6,"India, Tamil Nadu, India",2014,5000,476,India
 Honda Logistics,3.6,"Alwar, Rajasthan, India",2005,500,473,India
 Teradata,3.6,"San Diego,California, United States",1979,5000,472,USA
 WM Universal Solutions Private Limited,3.6,"Houston, United States",1968,200,467,USA
-Thales,3.6,"Meudon, Île-de-France",1893,5000,464,Île-de-France
 Realty Assistant,3.6,"Noida, Uttar Pradesh, India",2019,500,463,India
 Aimil Pharmaceuticals,3.6,"Delhi/NCR, New Delhi, India",1932,1000,461,India
 Purplle.com,3.6,"Mumbai,Maharashtra, India",2011,1000,457,India
 St. Xavier's High School,3.6,"Mumbai, Maharashtra, India",1869,5000,456,India
 Vijai Electricals,3.6,"Hyderabad/Secunderabad, Telangana, India",1973,10000,455,India
 Railtel Corporation Of India,3.6,"Gurgaon/Gurugram, Haryana, India",2000,5000,454,India
-Synopsys,3.6,"Sunnyvale, California",1986,5000,454,California
-AIRBUS,3.6,"Bangalore / Bengaluru, Karnataka, India",1970,5000,453,India
+Synopsys,3.6,"Sunnyvale, California",1986,5000,454,USA
+AIRBUSA,3.6,"Bangalore / Bengaluru, Karnataka, India",1970,5000,453,India
 Balmer Lawrie,3.6,"Kolkata, West Bengal, India",1867,1000,451,India
-SMEC,3.6,"North Sydney, New South Wales, Australia",1970,1000,451,Australia
+SMEC,3.6,"North Sydney, New South Wales, Australia",1970,1000,451,AUSAtralia
 Khadims,3.6,"Kolkata, West Bengal, India",1965,5000,450,India
-TAO Digital,3.6,"Santa Clara, California",2022,5000,446,California
+TAO Digital,3.6,"Santa Clara, California",2022,5000,446,USA
 Kataria Automobiles,3.6,"Ahmedabad, Gujarat, India",1990,500,444,India
-Fuji Electric,3.6,"Shinagawa-ku, Tokyo",1923,5000,443,Tokyo
+Fuji Electric,3.6,"Shinagawa-ku, Tokyo",1923,5000,443,Japan
 Midland Microfin Limited,3.6,"Jalandhar,Punjab, India",2011,10000,442,India
 Bhagwati Products,3.6,"Delhi/NCR, New Delhi, India",2002,50,442,India
 Meyer Organics,3.6,"Thane, Maharashtra, India",1982,5000,438,India
@@ -2041,7 +2040,6 @@ Odessa,3.6,"Bengaluru/Bangalore, Karnataka, India",1998,5000,411,India
 Echobooom Management & Entrepreneurial Solutions,3.6,"Mumbai, Maharashtra, India",2020,500,411,India
 Owens Corning,3.6,"Toledo, Ohio, United States (USA)",1938,5000,407,USA
 Eversendai,3.6,"India, Tamil Nadu, India",1984,500,405,India
-Daimler Truck,3.6,"Leinfelden-Echterdingen, Baden-Württemberg",0,5000,404,Baden-Württemberg
 ICFAI University,3.6,"Dehradun, Uttarakhand, India",2003,5000,403,India
 Motherhood Hospital,3.6,"Bangalore,Karnataka, India",2011,5000,402,India
 Stanley Black & Decker,3.6,"New Britain, United States",1843,5000,401,USA
@@ -2060,7 +2058,7 @@ Sangeetha Mobile,3.6,"Bangalore/Bengaluru, Karnataka, India",1974,5000,386,India
 SRM University,3.6,"India, India",1985,5000,384,India
 Karamtara Engineering Limited,3.6,"Mumbai, Maharashtra, India",1996,5000,384,India
 VTP Realty,3.6,"Maharashtra, India, India",2010,1000,382,India
-Huron,3.6,"Chicago, Illinois, US",2002,5000,382,US
+Huron,3.6,"Chicago, Illinois, US",2002,5000,382,USA
 Europa Locks,3.6,"Pune, Maharashtra, India",1984,1000,381,India
 US Tech Solutions,3.6,"New Jersey, New Jersey, United States (USA)",2000,500,380,USA
 Kores,3.6,"Mumbai, Maharashtra, India",1936,5000,378,India
@@ -2142,7 +2140,7 @@ Infineon Technologies,3.6,"Neubiberg,Bavaria, Germany",1999,5000,277,Germany
 Tatva Chintan Pharma Chem,3.6,"Vadodara, India",1996,1000,276,India
 Meenakshi Polymers,3.6,"Gurgaon/Gurugram, Haryana, India",1989,1000,275,India
 ARCIS e Services,3.6,"Gurgaon, India",1987,500,274,India
-P&O Cruises,3.6,"Southampton, England",1837,50,272,England
+P&O Cruises,3.6,"Southampton, UK",1837,50,272,UK
 Bajaj Finserv Health,3.6,"Pune, Maharashtra, India",2019,5000,272,India
 Bhilai Engineering Corporation,3.6,"Bhilai/Bhillai, Chhattisgarh, India",1960,1000,271,India
 S G Encon,3.6,"Panchkula, India",2008,50000,270,India
@@ -2162,7 +2160,7 @@ Hidden Brains InfoTech,3.6,"Ahmedabad, Gujarat, India",2003,500,261,India
 Winjit Technologies,3.6,"Nashik,Maharashtra, India",2004,1000,260,India
 Sparsh Hospital,3.6,"Bangalore/Bengaluru, Karnataka, India",2006,1000,257,India
 Saurav Chemicals,3.6,"Panchkula, Haryana, India",1991,5000,257,India
-GS Engineering & Construction,3.6,"Seoul, South Korea",1969,500,255,South Korea
+GS Engineering & Construction,3.6,"Seoul, South Korea",1969,500,255,Rw
 General Energy Management Systems,3.6,"Noida, Uttar Pradesh, India",1999,1000,254,India
 Hawkins Cookers,3.6,"Mumbai, Maharashtra, India",1959,1000,254,India
 UBI Services,3.6,"Thane, Maharashtra, India",1999,5000,252,India
@@ -2305,7 +2303,7 @@ Mega Rubber Technologies,3.6,"Thane, Maharashtra, India",1995,1000,176,India
 TVS Automobiles Solutions,3.6,"madurai, tamil nadu, India",2011,5000,176,India
 EASTMAN EXPORTS GLOBAL CLOTHING PVT.LTD,3.6,"Tirupur/Tiruppur, Tamil Nadu, India",1983,5000,175,India
 Harbinger Systems,3.6,"Pune, Maharashtra, India",1990,1000,175,India
-Ciklum,3.6,"London, England, UK",2002,500,175,UK
+Ciklum,3.6,"London, UK, UK",2002,500,175,UK
 CRED,3.6,"Bangalore,Karnataka, India",2018,500,174,India
 Gujarat Guardian Ltd.,3.6,"Noida, UP, India",1992,500,173,India
 Mafatlal Industries,3.6,"Mumbai, Maharashtra, India",1913,5000,173,India
@@ -2450,7 +2448,7 @@ TÜV NORD,3.7,"Mumbai, Maharashtra, India",1989,5000,1000,India
 Crompton Greaves Consumer Electricals,3.7,Unknown,2016,5000,1000,Unknown
 IB Group,3.7,"Rajnandgaon, Chhattisgarh, India",1985,50000,1000,India
 Rebel Foods,3.7,"Mumbai,Maharashtra, India",2012,10000,985,India
-Tiger Analytics,3.7,"Santa Clara, California, US",2011,5000,975,US
+Tiger Analytics,3.7,"Santa Clara, California, US",2011,5000,975,USA
 Capacit'e Infraprojects,3.7,"Mumbai,Maharashtra, India",2012,5000,975,India
 VIP Industries,3.7,"Mumbai, Maharashtra, India",1971,5000,969,India
 Yokohama Off-Highway Tires,3.7,"Mumbai,Maharashtra, India",2007,5000,965,India
@@ -2681,7 +2679,7 @@ Aujas Cybersecurity-NuSummit company,3.7,"Bangalore/Bengaluru, Karnataka, India"
 Swastika Investmart,3.7,"Indore, India",1992,1000,320,India
 Aarti Steels,3.7,"Ludhiana, Punjab, India",1979,1000,320,India
 Omax Autos,3.7,"Gurgaon/Gurugram, Haryana, India",1983,500,317,India
-Aristocrat,3.7,"North Ryde, NSW, Australia",1953,5000,316,Australia
+Aristocrat,3.7,"North Ryde, NSW, Australia",1953,5000,316,AUSAtralia
 Vashi Integrated Solutions Limited,3.7,"Mumbai, Maharashtra, India",1978,5000,316,India
 ProConnect Integrated Logistics,3.7,"India, Tamil Nadu, India",2012,200,315,India
 ClaySys,3.7,"Kakkanad, Kerala, India",2009,1000,315,India
@@ -2723,7 +2721,7 @@ Rupa,3.7,"Kolkata, West Bengal, India",1968,5000,286,India
 Jetking Infotrain,3.7,"Mumbai, Maharashtra, India",1947,200,285,India
 Shyam Indus Power Solutions,3.7,"Delhi/NCR, Delhi, India",2004,5000,285,India
 Toyota Material Handling,3.7,"Gurgaon/Gurugram, Haryana, India",1956,500,283,India
-PurpleTalk,3.7,"Dallas,Texas, US",2008,1000,283,US
+PurpleTalk,3.7,"Dallas,Texas, US",2008,1000,283,USA
 Emerald Jewel Industry India,3.7,"Coimbatore, Tamil Nadu, India",1984,200,282,India
 Dee Vee Projects,3.7,"Raipur , India",1989,200,281,India
 Kirloskar Electric Company,3.7,"Bangalore/Bengaluru, Karnataka, India",1946,5000,281,India
@@ -2759,7 +2757,7 @@ Pinkerton,3.7,"Ann Arbor, Detroit, USA",1850,1000,261,USA
 Shivani Locks,3.7,"Faridabad, Haryana, India",1988,5000,260,India
 Dosti Realty,3.7,"Mumbai, Maharashtra, India",1980,1000,259,India
 Paul Merchants,3.7,"Chandigarh, Chandigarh, India",1984,5000,257,India
-Dyson,3.7,"Malmesbury, England",1993,500,257,England
+Dyson,3.7,"Malmesbury, UK",1993,500,257,UK
 Ujala Cygnus,3.7,"New Delhi, Delhi, India",2019,1000,257,India
 Dynamatic Technologies,3.7,"Bangalore/Bengaluru, Karnataka, India",1973,5000,256,India
 Durian Industries,3.7,"Mumbai, Maharashtra, India",1985,1000,255,India
@@ -2805,10 +2803,10 @@ UPS Supply Chain Solutions,3.7,"Alpharetta, GA, United States, United States",20
 Selectsys,3.7,"Knoxville, United States (USA)",2006,200,227,USA
 Finorchem Limited,3.7,"Kolkata, West Bengal, India",1992,1000,227,India
 Maral Overseas,3.7,"Delhi/NCR, Delhi, India",1991,5000,226,India
-Tide - Business Management Platform,3.7,"London, England",2015,5000,226,England
+Tide - Business Management Platform,3.7,"London, UK",2015,5000,226,UK
 Orange Mantra,3.7,"Gurgaon/Gurugram, Haryana, India",2001,500,224,India
 Zeelab Pharmacy,3.7,"New Delhi, Delhi, India",2019,1000,223,India
-Veltris,3.7,"Milpitas, California",2015,500,223,California
+Veltris,3.7,"Milpitas, California",2015,500,223,USA
 Patton International,3.7,"Kolkata, West Bengal, India",1990,200,222,India
 Resonance Eduventures,3.7,"Kota, Rajasthan, India",2001,200,220,India
 MINISO,3.7,"Gurgaon/Gurugram, Haryana, India",2013,5000,220,India
@@ -2860,7 +2858,7 @@ SMC Power Generation,3.7,"New Delhi, India",2000,1000,202,India
 Brnd.Me,3.7,"Bangalore,Karnataka, India",2021,1000,202,India
 GEETANJALI HOMESTATE,3.7,"Gurgaon/Gurugram, Haryana, India",2013,1000,201,India
 Besant Technologies,3.7,"India, Tamil Nadu, India",2009,200,201,India
-Futurism Technologies,3.7,"Piscataway, New Jersey, US",2003,500,200,US
+Futurism Technologies,3.7,"Piscataway, New Jersey, US",2003,500,200,USA
 IDBI Capital,3.7,"Mumbai, Maharashtra, India",1993,200,199,India
 Astec LifeSciences,3.7,"Mumbai, Maharashtra, India",1994,500,198,India
 Sanmar Group,3.7,"India, India",1972,5000,198,India
@@ -2885,7 +2883,7 @@ Mobile Premier League,3.7,"Bangalore/Bengaluru, Karnataka, India",2018,5000,188,
 ePack Durables Solutions,3.7,"Greater Noida, Uttar Pradesh, India",0,5000,188,India
 Ubique Systems,3.7,"London, UK",2000,50,187,UK
 "MIDLAND CREDIT MANAGEMENT, INC.",3.7,"San Diego, United States",1953,5000,185,USA
-Fiat Chrysler Automobiles,3.7,"London, England",2014,5000,185,England
+Fiat Chrysler Automobiles,3.7,"London, UK",2014,5000,185,UK
 Hyundai Heavy Industries,3.7,"Ulsan, South Korea",1972,500,184,South Korea
 CTR Manufacturing Industries,3.7,"Pune, Maharashtra, India",1964,200,184,India
 AlmaBetter,3.7,"Bangalore / Bengaluru, Karnataka, India",2020,5000,184,India
@@ -2967,7 +2965,7 @@ Emmbi Industries,3.7,"Mumbai, Maharashtra, India",1994,500,162,India
 JCT Limited,3.7,"Hoshiarpur, Punjab, India",1946,5000,161,India
 Nipha Exports,3.7,"Kolkata, India",1963,1000,161,India
 AYTB,3.7,"Al Jubail,  Saudi Arabia",1979,200,161,Saudi Arabia
-MResult Services,3.7,"Mystic, Connecticut, US",2004,1000,161,US
+MResult Services,3.7,"Mystic, Connecticut, US",2004,1000,161,USA
 Anvil Cables,3.7,"Kolkata, India",2009,500,160,India
 Makino,3.7,"Mason, Japan",1937,200,160,Japan
 Krishna Buildestates,3.7,Delhi,0,200,160,India 
@@ -3085,7 +3083,7 @@ SBFC Finance,3.8,"Mumbai,Maharashtra, India",2017,5000,1400,India
 PNB Housing Finance,3.8,"Delhi/NCR, New Delhi, India",1988,5000,1400,India
 TCS iON,3.8,"Mumbai, India",2011,5000,1400,India
 Xiaomi,3.8,"Haidian District, Beijing, China",2010,5000,1400,China
-VOIS,3.8,"London, England, UK",2007,50000,1400,UK
+VOIS,3.8,"London, UK, UK",2007,50000,1400,UK
 Fino Payments Bank,3.8,"Mumbai, Maharashtra, India",2017,5000,1400,India
 Paytm Payments Bank,3.8,"Noida,Uttar Pradesh, India",2016,1000,1400,India
 Iffco Tokio General Insurance Co.,3.8,"Gurgaon/Gurugram, Haryana, India",2000,10000,1300,India
@@ -3094,7 +3092,7 @@ Cinépolis,3.8,"Morelia, Mexico",1971,5000,1300,Mexico
 Punjab National Bank,3.8,"Delhi/NCR, Delhi, India",1894,100000,1300,India
 Baroda Global Shared Services,3.8,"Mumbai, India",2017,10000,1300,India
 SK Finance Limited,3.8,"Jaipur, Rajasthan, India",1994,50000,1300,India
-ANZ Banking Group,3.8,"Melbourne, Victoria, Australia",2007,10000,1300,Australia
+ANZ Banking Group,3.8,"Melbourne, Victoria, Australia",2007,10000,1300,AUSAtralia
 Dell EMC,3.8,"Hopkinton, USA",1979,10000,1300,USA
 T-Systems ICT India,3.8,"Pune, Maharashtra, India",2016,5000,1200,India
 PNC Infratech,3.8,"Delhi/NCR, Delhi, India",1999,10000,1200,India
@@ -3124,7 +3122,7 @@ ALLEN Career Institute,3.8,"Kota, Rajasthan, India",1988,50000,1000,India
 GVPR Engineers,3.8,"Hyderabad/Secunderabad, Telangana, India",1997,5000,1000,India
 Westside,3.8,"Mumbai, India",1998,10000,997,India
 MasterCard,3.8,"Purchase,New York, United States",1966,10000,993,USA
-Collins Aerospace,3.8,"Charlotte, North Carolina, US",1933,10000,991,US
+Collins Aerospace,3.8,"Charlotte, North Carolina, US",1933,10000,991,USA
 Amazon Web Services,3.8,"Seattle, Washington, United States (USA)",2006,50000,990,USA
 Aparajitha Corporate Services,3.8,"Madurai, Tamil Nadu, India",2000,5000,982,India
 Merino Industries,3.8,"Delhi/NCR, Delhi, India",1968,10000,972,India
@@ -3159,7 +3157,7 @@ Ramco Systems,3.8,"India, India",1997,5000,820,India
 Vijaya Diagnostic Centre,3.8,"Hyderabad/Secunderabad, Telangana, India",1981,5000,803,India
 Zuventus Healthcare,3.8,"Mumbai, Maharashtra, India",2002,5000,792,India
 Cigniti Technologies,3.8,"Hyderabad / Secunderabad, Telangana, India",1998,5000,787,India
-NTT,3.8,"London, England, Australia",2006,50000,781,Australia
+NTT,3.8,"London, UK, Australia",2006,50000,781,AUSAtralia
 Bses Rajdhani Power,3.8,"Delhi/NCR, New Delhi, India",2001,5000,769,India
 Ksb Pumps,3.8,"Pune, Maharashtra, India",1960,5000,768,India
 Alivus Life Sciences,3.8,"Mumbai, India",1977,5000,765,India
@@ -3230,7 +3228,7 @@ Propertypistol Realty,3.8,"Mumbai, Maharashtra, India",2012,5000,550,India
 Craftsman Automation,3.8,"Coimbatore, Tamil Nadu, India",1986,5000,548,India
 AM Infoweb,3.8,"Pune, Maharashtra, India",2008,5000,545,India
 Utility Powertech,3.8,"Noida, Uttar Pradesh, India",1995,5000,543,India
-RadiSys,3.8,"Bangalore/Bengaluru, Karnataka, US",1987,5000,539,US
+RadiSys,3.8,"Bangalore/Bengaluru, Karnataka, US",1987,5000,539,USA
 MUTHOOT HOMEFIN (I) LTD.,3.8,"Mumbai, Maharashtra, India",2011,5000,532,India
 CompuCom,3.8,"Fort Mill, South Carolina, United States (USA)",1987,5000,530,USA
 India Private Driver,3.8,"New Delhi, Delhi, India",2005,10,529,India
@@ -3381,7 +3379,7 @@ Essar Projects India,3.8,"Mumbai, India",1969,10000,310,India
 ISMT,3.8,"Pune, Maharashtra, India",1977,5000,310,India
 Tata Marcopolo Motors,3.8,"Pune, Maharashtra, India",1945,5000,309,India
 Electrical Research & Development Association,3.8,"Vadodara/Baroda, Gujarat, India",1974,500,308,India
-Quintessence Business Solutions & Services,3.8,"Dallas, Texas, US",2011,1000,308,US
+Quintessence Business Solutions & Services,3.8,"Dallas, Texas, US",2011,1000,308,USA
 Doha Petroleum Construction Company,3.8,"Doha, Qatar",1981,5000,308,Qatar
 The Indian Hume Pipe Co.,3.8,"Mumbai, India",1926,5000,306,India
 Amcor Flexibles India,3.8,"Melbourne, Victoria, Switzerland",1864,500,305,Switzerland
@@ -3390,7 +3388,7 @@ Futwork,3.8,"Mumbai,Maharashtra, India",2016,5000,304,India
 TIDC India,3.8,"India, Tamil Nadu, India",1960,10000,304,India
 Munjal Kiriu Industries,3.8,"Gurgaon/Gurugram, Haryana, India",1956,500,301,India
 Aspiro Pharma,3.8,"Bangalore,Karnataka, India",2012,200,301,India
-ANZ Operations & Technology,3.8,"Melbourne, Australia",1989,5000,300,Australia
+ANZ Operations & Technology,3.8,"Melbourne, Australia",1989,5000,300,AUSAtralia
 Netsmartz Infotech,3.8,"Pittsford, United States Of America",1999,1000,300,USA
 Ahresty India,3.8,"Rewari, Haryana, India",2007,200,300,India
 Rucha Engineers,3.8,"Ghaziabad, India",2007,1000,299,India
@@ -3483,7 +3481,7 @@ Latinem,3.8,"Hyderabad / Secunderabad, Telangana, India",2024,600,246,India
 Sophos Technologies,3.8,"Abingdon, United Kingdom, India",1985,5000,245,India
 Rittal,3.8,"Herborn, Germany",1995,1000,245,Germany
 GMM Pfaudler,3.8,"Mumbai, India",1962,1000,244,India
-Microchip Technology,3.8,"Chandler, Arizona, US",1989,5000,244,US
+Microchip Technology,3.8,"Chandler, Arizona, US",1989,5000,244,USA
 Chandigarh Group of Colleges,3.8,"Mohali, India",2012,1000,244,India
 Net Solutions,3.8,"Chandigarh, Haryana, India",2000,500,243,India
 Skylark Infra Engineering Private Limited,3.8,"Gurgaon, India",2000,50000,242,India
@@ -3513,12 +3511,12 @@ ProcMart,3.8,"Noida,Uttar Pradesh, India",2016,200,231,India
 Metro Brands,3.8,"Mumbai, Maharashtra, India",1947,1000,230,India
 VHS Consulting,3.8,"Pleasanton, USA",2009,200,230,USA
 Reecomps Teleservices,3.8,"Allahabad, India",1998,5000,229,India
-Link Group,3.8,"Sydney, New South Wales, Australia",0,200,229,Australia
+Link Group,3.8,"Sydney, New South Wales, Australia",0,200,229,AUSAtralia
 AT&S,3.8,"Mumbai,Maharashtra, India",1987,5000,228,India
 Games24x7,3.8,"Mumbai,Maharashtra, India",2006,1000,228,India
 Nordex India,3.8,"Hamburg,Hamburg, Germany",1985,200,228,Germany
 Azim Premji Foundation,3.8,"Bangalore/Bengaluru, Karnataka, India",2001,5000,228,India
-Shorthills AI,3.8,"New Jersey, US",2018,500,228,US
+Shorthills AI,3.8,"New Jersey, US",2018,500,228,USA
 Paradise Food Court,3.8,"Hyderabad/Secunderabad, Telangana, India",1953,5000,227,India
 Neolite Zkw Lightings,3.8,"Delhi/NCR, Delhi, India",1952,500,225,India
 Ceragon Networks,3.8,"Noida, Uttar Pradesh, India",1996,1000,225,India
@@ -3542,7 +3540,7 @@ SGB By BrandSafway,3.8,San Diego,0,200,219,San Diego
 Uni Cards,3.8,"Bangalore,Karnataka, India",2020,500,218,India
 SrinSoft Technologies,3.8,"India, Tamil Nadu, India",2005,1000,217,India
 Hinduja Group,3.8,"India, Tamil Nadu, India",2009,5000,217,India
-Dunnhumby,3.8,"Brook Green, London, England",2008,1000,216,England
+Dunnhumby,3.8,"Brook Green, London, UK",2008,1000,216,UK
 Prakash Industries,3.8,"New Delhi, India",1980,1000,215,India
 Hindustan PowerProjects,3.8,"Delhi, India",2008,10,215,India
 The Co-operative Bank,3.8,"Manchester, Greater Manchester, UK (UK)",1872,500,215,UK
@@ -3565,7 +3563,7 @@ Bsr Infratech India,3.8,"Bengaluru, India",2008,5000,211,India
 Rotostat Services,3.8,"Mumbai, Maharashtra, India",2009,200,209,India
 Beri Udyog,3.8,"Karnal, Haryana, India",1978,500,209,India
 Pradan,3.8,"New Delhi, India",1983,500,209,India
-RateGain,3.8,"London,England, UK",2004,1000,208,UK
+RateGain,3.8,"London,UK, UK",2004,1000,208,UK
 Hyundai Motor India Engineering,3.8,"Hyderabad/Secunderabad, Telangana, India",2006,1000,207,India
 Geo Chem Laboratories,3.8,"Mumbai, Maharashtra, India",1964,5000,207,India
 Bilt Graphic Paper Products,3.8,"Gurgaon / Gurugram, Haryana, India",2007,5000,207,India
@@ -3656,7 +3654,7 @@ Som Projects (S.P.L),3.8,"Gurugram, India",1986,200,176,India
 Fichtner Consulting Engineers,3.8,"Stockport, UK (UK)",1987,500,176,UK
 MEP Infrastructure Developers,3.8,"Mumbai, Maharashtra, India",2002,5000,174,India
 Lawrence & Mayo,3.8,"Mumbai, India",1877,500,174,India
-Delivery.com,3.8,New York,0,500,174,New York
+Delivery.com,3.8,New York,0,500,174,USA
 AIG,3.8,"New York, United States (USA)",2009,50000,174,USA
 Automation Anywhere,3.8,"San Jose,California, United States",2003,5000,174,USA
 iQuanti,3.8,"Jersey City, United States",2008,1000,174,USA
@@ -3775,14 +3773,14 @@ ACC,3.9,"Mumbai, Maharashtra, India",1936,5000,3000,India
 Yazaki,3.9,"Tokyo, Tokyo, Japan",1941,50000,2900,Japan
 Tata Electronics,3.9,"Mumbai, Maharashtra, India",1868,50000,2900,India
 Dalmia Bharat Cement,3.9,"Delhi/NCR, New Delhi, India",1935,10000,2800,India
-Shell,3.9,"London, England, India",1907,50000,2700,India
+Shell,3.9,"London, UK, India",1907,50000,2700,India
 Ajanta Pharma,3.9,"Mumbai, Maharashtra, India",1973,10000,2600,India
 Foxconn,3.9,"Sriperumbudur, Tamil Nadu, India",1974,5000,2600,India
 Domino's Pizza,3.9,"Ypsilanti, Michigan, United States (USA)",1960,50000,2600,USA
 Himalaya Wellness,3.9,"San Francisco,California, United States",1930,10000,2600,USA
 Alldigi Tech,3.9,"India, Tamil Nadu, India",2000,5000,2500,India
 Bajaj Electricals,3.9,"Mumbai, Maharashtra, India",1938,5000,2500,India
-JCB,3.9,"Rocester, Staffordshire, England",1945,10000,2500,England
+JCB,3.9,"Rocester, Staffordshire, UK",1945,10000,2500,UK
 Tractors and Farm Equipment,3.9,"India, Tamil Nadu, India",1960,50000,2500,India
 Patanjali Ayurved,3.9,"Haridwar, Uttarakhand, India",2006,10000,2400,India
 McDonald's,3.9,"Chicago, Illinois, United States (USA)",1955,50000,2400,USA
@@ -3863,7 +3861,7 @@ BirlaNu,3.9,"Hyderabad/Secunderabad, Telangana, India",1946,5000,1000,India
 Vistaar Finance,3.9,"Bengaluru/Bangalore, Karnataka, India",2010,5000,1000,India
 Vertiv,3.9,"Thane, Maharashtra, India",1946,5000,1000,India
 NBC Bearings,3.9,"Jaipur, Rajasthan",1946,5000,1000,India 
-Secure Meters,3.9,"Udaipur, Rajasthan, England",1987,10000,1000,England
+Secure Meters,3.9,"Udaipur, Rajasthan, UK",1987,10000,1000,UK
 Fortrea Development India Private Limited,3.9,"Bengaluru/Bangalore, Karnataka, India",2023,5000,1000,India
 AstraZeneca,3.9,"Cambridge, Cambridgeshire, UK (UK)",1999,1000,998,UK
 Arohan Financial Services,3.9,"Kolkata, West Bengal, India",2006,50000,984,India
@@ -4108,7 +4106,7 @@ Satin Finserv,3.9,"New Delhi, Delhi, India",2019,50000,340,India
 Trane Technologies,3.9,"Davidson, North Carolina, United States (USA)",1871,5000,340,USA
 Gyproc,3.9,"Mumbai, Maharashtra, India",0,5000,338,India
 Ceat Specialty Tyres,3.9,"Mumbai, India",1924,200,337,India
-Telstra,3.9,"Melbourne, Australia",1901,5000,337,Australia
+Telstra,3.9,"Melbourne, Australia",1901,5000,337,AUSAtralia
 Coditas Technologies,3.9,"Pune, India",2014,1000,335,India
 "Ministry Of Health, New Delhi",3.9,"Delhi/NCR, Delhi, India",1976,50000,335,India
 MTR Foods,3.9,"Bangalore/Bengaluru, Karnataka, India",1924,5000,332,India
@@ -4137,7 +4135,7 @@ Hinduja Finance,3.9,"Mumbai, Maharashtra, India",2008,500,310,India
 ARDEM Incorporated,3.9,"Lucknow, Uttar Pradesh, India",2004,500,310,India
 Azure Power,3.9,"Delhi,NCT, India",2008,1000,309,India
 Equinox Labs,3.9,"Mumbai, Maharashtra, India",2005,1000,308,India
-Jaguar Land Rover,3.9,"Coventry, England",1922,500,308,England
+Jaguar Land Rover,3.9,"Coventry, UK",1922,500,308,UK
 Van Heusen,3.9,"New York, USA",1921,500,307,USA
 Inlead Electronics,3.9,"Shenzhen, Guangdong
 , China",2004,50000,305,China
@@ -4222,7 +4220,7 @@ Kutch Chemical Industries,3.9,"Ahmedabad, India",2004,5000,260,India
 Armstrong Robotics & Technologies Private Limited,3.9,"Pune, Maharashtra, India ",1999,500,260,India 
 Rajiv Gandhi Cancer Institute & Research Centre,3.9,"Delhi/NCR, Delhi, India",1996,5000,260,India
 Super Auto Forge,3.9,"India, Tamil Nadu, India",1975,500,259,India
-CohnReznick,3.9,"New York, New York, US",1919,1000,259,US
+CohnReznick,3.9,"New York, New York, US",1919,1000,259,USA
 STT Global Data Centres India,3.9,"Mumbai, India",2004,500,259,India
 Algonomy,3.9,"Bangalore,Karnataka, India",2004,500,257,India
 Jeena Sikho Lifecare,3.9,"Zirakpur, Punjab, India",2002,5000,257,India
@@ -4436,7 +4434,7 @@ Lilavati Hospital & Research Centre,3.9,"Mumbai, Maharashtra, India",1997,5000,1
 iVistec Partners India Private Limited,3.9,"Noida, Uttar Pradesh, India",2002,500,161,India
 Jotun Paints,3.9,"Sandefjord, Norway",1926,500,161,Norway
 Amphenol Omniconnect - India,3.9,"India, India",2008,500,160,India
-ACI Worldwide,3.9,"Coral Gables, Florida, US",1975,1000,160,US
+ACI Worldwide,3.9,"Coral Gables, Florida, US",1975,1000,160,USA
 Tulip Diagnostics,3.9,"Goa, India",1988,5000,159,India
 MathWorks,3.9,"Natick, MA USA",0,5000,159,MA USA
 Sterlite Industries,3.9,"Mumbai, Maharashtra, India",1975,500,159,India
@@ -4536,7 +4534,7 @@ Metro Cash & Carry,4,"Bangalore/Bengaluru, Karnataka, India",2003,5000,1700,Indi
 NEC,4,"New Delhi, Delhi, India",2006,10000,1700,India
 Medanta the Medicity,4,"Gurgaon, India",2009,50000,1700,India
 MagicBricks,4,"Noida, Uttar Pradesh, India",2006,5000,1600,India
-Compass Group Support Services,4,"London, England, UK",2008,50000,1600,UK
+Compass Group Support Services,4,"London, UK, UK",2008,50000,1600,UK
 Procter & Gamble,4,"Cincinnati, Ohio, United States (USA)",1837,5000,1600,USA
 Vardhman Fabrics,4,"Ludhiana, Punjab, India, India",1965,50000,1600,India
 Matrimony.com,4,"India,Tamil Nadu, India",1997,5000,1600,India
@@ -4559,7 +4557,7 @@ Sansera Engineering,4,"Bangalore/Bengaluru, Karnataka, India",1981,5000,1400,Ind
 Eaton,4,"Cleaveland, Ohio, USA",1911,10000,1400,USA
 TÜV SÜD,4,"Munich, Germany",1866,5000,1400,Germany
 JSW Cement,4,"Mumbai,Maharashtra, India",2009,5000,1300,India
-INDIUM,4,"Cupertino, California",1999,5000,1300,California
+INDIUM,4,"Cupertino, California",1999,5000,1300,USA
 CreditAccess Grameen,4,"Bangalore/Bengaluru, Karnataka, India",1999,50000,1300,India
 The Ramco Cements,4,"India,Tamil Nadu, India ",1961,5000,1300,India 
 Nippon Paint India,4,"Osaka, Japan",1881,5000,1300,Japan
@@ -4760,7 +4758,7 @@ Recpdcl.ltd,4,"Noida, Uttar Pradesh, India",2007,5000,409,India
 STUDDS Accessories Limited,4,helmets,1983,3000,407,helmets
 GRT Jewellers,4,"India, Tamil Nadu, India",1964,10000,405,India
 PGP Glass,4,"Mumbai, Maharashtra, India",1984,5000,402,India
-Merck,4,"Rahway, New Jersey, US",1891,5000,401,US
+Merck,4,"Rahway, New Jersey, US",1891,5000,401,USA
 RDC Concrete (India),4,"Mumbai, Maharashtra, India",1993,1000,400,India
 Gtpl Hathway,4,"Ahmedabad, Gujarat, India",2006,1000,399,India
 Flyjac Logistics,4,"India, Tamil Nadu, India",1990,5000,398,India
@@ -4953,7 +4951,7 @@ Asian Institute of Medical Sciences,4,"Faridabad,Haryana, India",2010,5000,232,I
 Parle Elizabeth Tools,4,"Mumbai, India",2008,500,232,India
 QualiZeal,4,"Hyderabad/Secunderabad, Telangana, India",2021,500,232,India
 Ammann Apollo,4,"Mehsana, India",1997,5000,231,India
-Red Bull,4,"Fuschl, Austria",1987,5000,231,Austria
+Red Bull,4,"Fuschl, Austria",1987,5000,231,AUSAtria
 Skechers,4,"Mumbai, Maharashtra, India",1992,1000,229,India
 Kapston Services,4,"Hyderabad / Secunderabad, Telangana, India",2009,50000,229,India
 Omprime Technology Private Limited,4,"Gurgaon / Gurugram, Haryana, India",2019,200,228,India
@@ -4991,7 +4989,7 @@ Special Technical Services,4,"Muscat, Oman",1980,500,212,Oman
 Bikaji Foods,4,"Bikaner, India",1987,5000,212,India
 Rubamin,4,"Vadodara/Baroda, Gujarat, India",1981,1000,212,India
 Ajax Engineering,4,"Bangalore/Bengaluru, Karnataka, India",1992,200,211,India
-Moody's,4,"New York, New York, US",1909,5000,211,US
+Moody's,4,"New York, New York, US",1909,5000,211,USA
 Mark's,4,"Calgary, Alberta, Canada",1977,5000,211,Canada
 Pradhan Mantri Kaushal Vikas Yojana,4,"Delhi/NCR, Delhi, India",2015,10,210,India
 Modicare,4,"Delhi/NCR, Delhi, India",1996,200,210,India
@@ -5217,7 +5215,7 @@ Jaquar,4.1,"Gurgaon, India",1960,5000,1400,India
 Tieto,4.1,"Helsinki, Finland",1968,5000,1400,Finland
 J. Kumar Infraprojects,4.1,"Mumbai, Maharashtra, India",1980,10000,1400,India
 DCM Shriram,4.1,"Delhi/NCR, New Delhi, India",1990,10000,1400,India
-Worley,4.1,"North Sydney, North Sydney, Australia",1971,10000,1400,Australia
+Worley,4.1,"North Sydney, North Sydney, Australia",1971,10000,1400,AUSAtralia
 GE,4.1,"Boston, Massachusetts, United States (USA)",1892,10000,1300,USA
 TE Connectivity,4.1,"Galway, Ireland",1941,5000,1300,Ireland
 Mondelez International,4.1,"Greater Chicago Area, IL, United States of America",2012,5000,1300,USA
@@ -5256,7 +5254,7 @@ Naukri,4.1,"Noida, India",1996,5000,934,India
 Knight Frank,4.1,"Mumbai, Maharashtra, India",1896,5000,929,India
 Bayer,4.1,"Monheim Am Rhein,North Rhine-westphalia, Germany",1863,50000,925,Germany
 Deepak Fertilisers and Petrochemicals,4.1,"Pune, Maharashtra, India",1979,5000,914,India
-OCS Group,4.1,"London, England, UK",1996,50000,907,UK
+OCS Group,4.1,"London, UK, UK",1996,50000,907,UK
 Bosch Chassis Systems,4.1,"Gerlingen, Germany",1951,5000,898,Germany
 Vijay Sales,4.1,"Mumbai, Maharashtra, India",1967,5000,891,India
 FastInfo,4.1,"Kolkata, West Bengal, India",2019,1000,884,India
@@ -5333,7 +5331,7 @@ Lotus Herbals Private Limited,4.1,"New Delhi, Delhi, India",1993,5000,506,India
 Sarovar Hotels & Resorts,4.1,"Gurgaon/Gurugram, Haryana, India",1996,5000,504,India
 TÜV Rheinland,4.1,"Cologne, Germany",1872,5000,504,Germany
 Mars International India,4.1,"McLean, United States (USA)",1994,5000,497,USA
-Athenahealth Technology,4.1,"Boston, Massachusetts, USA, Australia",1997,5000,489,Australia
+Athenahealth Technology,4.1,"Boston, Massachusetts, USA, Australia",1997,5000,489,AUSAtralia
 Otsuka Pharmaceutical India Private Limited,4.1,"Ahmedabad, Gujarat, India",2016,1000,485,India
 Bridgestone India Automotive Products,4.1,"Pune, India",1996,5000,483,India
 National Commodities Management Services,4.1,"Gurgaon / Gurugram, Haryana, India",2004,1000,481,India
@@ -5344,7 +5342,7 @@ Westin,4.1,"Kolkata, West Bengal, India",1930,5000,477,India
 Clove Dental,4.1,"Delhi,NCT, India",2011,5000,473,India
 Sayaji Hotels,4.1,"Indore, Madhya Pradesh, India",1987,5000,470,India
 Gulf Oil Lubricants,4.1,"Mumbai, Maharashtra, India",1993,1000,469,India
-Cera Sanitaryware,4.1,"London,England, UK",1980,5000,466,UK
+Cera Sanitaryware,4.1,"London,UK, UK",1980,5000,466,UK
 Indofil Industries,4.1,"Mumbai, Maharashtra, India",1993,1000,457,India
 Pratham Education Foundation,4.1,"Delhi/NCR, Delhi, India",1995,5000,455,India
 Henkel Adhesives Technologies,4.1,"Düsseldorf, North Rhine-Westphalia, Germany",1990,5000,455,Germany
@@ -5368,7 +5366,7 @@ RSWM Limited,4.1,"Noida, India",1961,50000,422,India
 Novartis Healthcare,4.1,"Mumbai, Maharashtra, India",1996,200,418,India
 TCL,4.1,"Huizhou, China",1981,5000,417,China
 Spice Money,4.1,"Noida, Uttar Pradesh, India",2000,1000,417,India
-Ensono,4.1,"Downers Grove, Illinois, US",1969,5000,415,US
+Ensono,4.1,"Downers Grove, Illinois, US",1969,5000,415,USA
 Havmor Ice Cream,4.1,"Ahmedabad, Gujrat, India",1944,5000,414,India
 TTK Healthcare,4.1,"India, Tamil Nadu, India",1928,5000,414,India
 Win Medicare,4.1,"Delhi/NCR, Delhi, India",2005,1000,411,India
@@ -5377,7 +5375,7 @@ ANR Software Private Limited,4.1,"Noida, Uttar Pradesh, India",2004,500,408,Indi
 Hexagon Nutrition,4.1,"Mumbai,Maharashtra, India",1993,1000,404,India
 Penna Cement Industries,4.1,"Hyderabad/Secunderabad, Telangana, India",1991,5000,403,India
 Piramal Swasthya,4.1,"Hyderabad/Secunderabad, Telangana, India",2007,50000,403,India
-Starbucks,4.1,"Seattle, Washington, US",1971,5000,401,US
+Starbucks,4.1,"Seattle, Washington, US",1971,5000,401,USA
 Group Bayport,4.1,"Atlanta, Georgia, United States",2012,5000,401,USA
 VRB Consumer Products Private Limited,4.1,"Gurgaon / Gurugram, Haryana, India",2013,5000,400,India
 GE Vernova T&D India,4.1,"Henderson, Nevada, United States (USA)",1957,5000,399,USA
@@ -5548,7 +5546,7 @@ Savita Oil Technologies,4.1,"Mumbai, Maharashtra, India",1961,5000,215,India
 Synthite Industries,4.1,"Ernakulam, Kerala, India",1972,5000,215,India
 Bharathi Cement,4.1,"Hyderabad, India",1999,5000,215,India
 inMorphis Services,4.1,"Boston, MA, United States",2015,500,215,USA
-DelaPlex Software,4.1,"Atlanta, Georgia, US",2008,500,214,US
+DelaPlex Software,4.1,"Atlanta, Georgia, US",2008,500,214,USA
 Sterling and Wilson Renewable Energy,4.1,"Mumbai, Maharashtra, India",0,1000,213,India
 Ts Tech Sun India,4.1,"Noida, India",1954,200,213,India
 Anri Solutions HR Services,4.1,"Delhi, India",2003,50,212,India
@@ -5712,7 +5710,7 @@ Egis India Consulting Engineers,4.2,"Gurgaon/Gurugram, Haryana, India",2005,5000
 Volkswagen,4.2,"Mumbai, Maharashtra, India",2001,5000,895,India
 WSP,4.2,"Montreal, Canada",1959,5000,868,Canada
 Torry Harris Integration Solutions,4.2,"Perth Amboy, United States",1998,5000,863,USA
-Serco,4.2,"Hook, England",1988,10000,851,England
+Serco,4.2,"Hook, UK",1988,10000,851,UK
 Teamware Solutions,4.2,"India, Tamil Nadu, India",2003,5000,820,India
 Rodic Consultants,4.2,"Delhi/NCR, Delhi, India",2000,5000,815,India
 K Raheja Corp,4.2,"Mumbai, India",1956,50000,806,India
@@ -5748,7 +5746,7 @@ Infinity Learn,4.2,"Hyderabad,Telangana, India",2021,5000,593,India
 Kellogg,4.2,"Battle Creek, Michigan, United States (USA)",1906,5000,590,USA
 Maharashtra State Electricity Distribution Company,4.2,"Mumbai, Maharashtra, India",2005,100000,583,India
 Apitoria Pharma,4.2,"Hyderabad / Secunderabad, Telangana, India",2023,10000,582,India
-Colt Technology Services,4.2,"London,England, UK",1992,5000,581,UK
+Colt Technology Services,4.2,"London,UK, UK",1992,5000,581,UK
 PTC,4.2,"Boston,Massachusetts, United States",1985,5000,578,USA
 C5i,4.2,"Mumbai, Maharashtra, India",2000,5000,577,India
 Levi Strauss & Co.,4.2,"San Francisco,California, United States",1853,5000,566,USA
@@ -5935,7 +5933,7 @@ Lubrizol Corporation,4.2,"Wickliffe, Ohio, United States of America",0,500,187,U
 Cheema Boilers,4.2,"Mohali, Punjab, India",1999,1000,187,India
 Panchshil Realty,4.2,"Pune, Maharashtra, India",2002,500,186,India
 Ring Plus Aqua,4.2,"Thane, India",1997,500,182,India
-AMBITION JOB,4.2,"Sydney, Australia",1999,5000,181,Australia
+AMBITION JOB,4.2,"Sydney, Australia",1999,5000,181,AUSAtralia
 Impresario Entertainment & Hospitality,4.2,"Mumbai, India",2001,5000,181,India
 Indian Council of Medical Research,4.2,"Delhi/NCR, Delhi, India",1911,5000,180,India
 Swal Corporation,4.2,"Mumbai, India",1979,1000,179,India
@@ -6080,7 +6078,7 @@ Keihin Fie,4.3,"Pune, Maharashtra, India",1956,5000,292,India
 FCI CCM,4.3,"Noida, Uttar Pradesh, India",1959,1000,292,India
 Infrastructure Leasing & Financial Services,4.3,"Mumbai, India",1987,1000,291,India
 Olyv,4.3,"Bangalore / Bengaluru, Karnataka, India",2017,500,279,India
-Hitachi Astemo Rajasthan Brake Systems,4.3,"Chiyoda-ku, Tokyo",0,5000,278,Tokyo
+Hitachi Astemo Rajasthan Brake Systems,4.3,"Chiyoda-ku, Tokyo",0,5000,278,Japan
 Four Points By Sheraton,4.3,"Bethesda, Maryland, United States (USA)",1995,1000,278,USA
 Noida Power Company,4.3,"Greater Noida, India",1993,5000,271,India
 National Institute of Technology,4.3,"New Delhi, India",2007,200,269,India
@@ -6121,8 +6119,8 @@ Shivam Infocom,4.3,"Delhi/NCR, Delhi, India",2003,5000,216,India
 South Eastern Coalfields,4.3,"Bilaspur, India",1985,5000,216,India
 Flyhomes,4.3,"Seattle,Washington, United States",2015,500,214,USA
 Innovapptive,4.3,"Hyderabad / Secunderabad, Telangana, India",2012,500,214,India
-TPI Composites,4.3,"Scottsdale, Arizona, US",1968,1000,214,US
-Marsh,4.3,New York,1969,5000,211,New York
+TPI Composites,4.3,"Scottsdale, Arizona, US",1968,1000,214,USA
+Marsh,4.3,New York,1969,5000,211,USA
 Biryani By Kilo,4.3,"Gurgaon,Haryana, India",2015,1000,209,India
 John Deere Financial,4.3,"Johnston, United States",1837,10000,209,USA
 N.K. Realtors,4.3,"Kolkata, West Bengal, India",1987,500,208,India
@@ -6219,7 +6217,7 @@ Hyundai Construction Equipment,4.4,"Pune, Maharashtra, India",2007,500,330,India
 Louis Philippe,4.4,"Bangalore/Bengaluru, Karnataka, India",1989,5000,328,India
 Signutra (Health & Nutrition Division of Win - Medicare Pvt Ltd),4.4,"New Delhi, Delhi, India",2010,1000,313,India
 Deepak Phenolics,4.4,"Vadodara, India",2011,500,312,India
-KnowledgeHut,4.4,"Wilmington, Delaware, US",2011,1000,309,US
+KnowledgeHut,4.4,"Wilmington, Delaware, US",2011,1000,309,USA
 First Flight Couriers,4.4,"Mumbai, Maharashtra, India",1988,5000,298,India
 Can-Pack,4.4,"Aurangabad, Maharashtra, India",1992,1000,295,India
 Ketto,4.4,"Mumbai, Maharashtra, India",2012,500,295,India
@@ -6343,8 +6341,8 @@ EVRY India,4.5,"Bangalore/Bengaluru, Karnataka, India",1968,5000,272,India
 Hero Vired,4.5,"New Delhi, Delhi, India",0,500,269,India
 BuildAHome,4.5,"Bangalore/Bengaluru, Karnataka, India",2016,500,268,India
 indiagold,4.5,"Gurgaon,Haryana, India",2020,500,268,India
-Opkey,4.5,"Dublin, California",2015,200,264,California
-Vantive,4.5,"DEERFIELD, Illinois - US",2025,5000,246,Illinois - US
+Opkey,4.5,"Dublin, California",2015,200,264,USA
+Vantive,4.5,"DEERFIELD, Illinois - US",2025,5000,246,Illinois - USA
 Balaji Enterprises,4.5,"Mumbai, Maharashtra, India",1991,50,234,India
 National Insurance Company,4.5,"Kolkata, West Bengal, India",1906,10000,234,India
 Reliance Home Finance,4.5,"Mumbai, Maharashtra, India",2008,1000,227,India
